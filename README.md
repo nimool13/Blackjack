@@ -1,2 +1,3 @@
 # Blackjack
-The objective was to create Blackjack game in java
+Instruction
+Implementation and documentation of a Black Jack game.The focus is not on usability or a nice user interface but to have a robust and well-documented design that can handle change. In the provided code. As there are many different variants of the rules one of the aims is to create a flexible design that supports different combinations of rules. There is also a class diagram that describes the packages, classes and the main relations in the implementation (note that there are dependencies in the implementation that are not shown in the diagram for readability purposes, e.g. there are many dependencies to the Card class).
